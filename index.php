@@ -29,7 +29,7 @@
 				<p><b>Background</b></p>
 				<p>I was inspired to design Cycle Map by <a href="http://cycle.travel/map" alt="Cycle.Travel">cycle.travel</a>, an excellent journey planner for cyclists, edited by Richard Fairhurst with site design by <a href="http://www.simonclayson.co.uk/" alt="Simon Clayson Design">Simon Clayson Design</a>. I am not affiliated with either organization, except as a user of the cycle.travel site. As cycle.travel does not yet have a mobile application, I took a shot at designing one myself, interested in the challenges presented by such an application and, as a cyclist myself, already familiar with some of the user needs.</p>
 				<p><b>This Website</b></p>
-				<p>To show the project off, I also prototyped, designed and built this website using jQuery, Bootstrap, and a little PHP. (If you're reading this sentence then I'm still developing the website and would appreciate feedback and forgiveness for any incomplete features.)</p>
+				<p>To show the project off, I also prototyped, designed and built this website using jQuery, Bootstrap, and a little PHP.</p>
 				<p><b>And Finally...</b></p>
 				<p> I'm looking for a career in the field of user interface/interaction design, so please <a href="#contact" alt="Contact">let me know</a> if you're interested in this project or want to discuss any opportunities to do this kind of thing during daylight hours.</p>
 			</div>
