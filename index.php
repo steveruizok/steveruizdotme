@@ -23,7 +23,7 @@
 			<div id="body" class="col-12 col-lg-10">
 				<img src="images/blankScreen1.jpg" class="img-responsive demoImg">
 				<p>My name is Stephen Ruiz, and I’m a designer who codes. My background is in visual art and I like to design for user interactions on web and mobile. I made this site to show you <b>Cycle Map</b>, a mobile application prototype I built in <a href="https://framer.com/" alt="Framer Studio">Framer Studio</a>. The full prototype can be explored <a href="https://framer.cloud/cnuRj" alt="Cycle Map Framer Prototype">here.</a></p>
-				<p>I designed and built Cycle Map in several iterations, using Framer Studio to code the interactions and animations and Sketch for all visual assets. On the next few pages, I've put up a <a href="/cyclemap.html" alt="Cycle Map Demo">step by step</a> tour of the features I built in the prototype. And of course, as this is a presentation both of the product and of how I work, I've <a href="/cyclemapdesign.php" alt="Design">documented the entire design process</a>, from early sketches to final prototype.</p>
+				<p>I designed and built Cycle Map in several iterations, using Framer Studio to code the interactions and animations and Sketch for all visual assets. On the next few pages, I've put up a <a href="/cyclemap.html" alt="Cycle Map Demo">step by step tour</a> of the features I designed and built into the prototype. And of course, as this is a presentation both of the product and of how I work, I've <a href="/cyclemapdesign.php" alt="Design">documented the entire design process</a>, from early sketches to final prototype.</p>
 
 				<p>If you like the project or are interested in working together, <a href="#contact" alt="Contact">please let me know</a>.</p>
 				<p><b>Background</b></p>
